@@ -1,5 +1,4 @@
 # CS-255_DriverPass
-DriverPass Project Reflection
 Project Summary:
 The DriverPass project involved designing a comprehensive system to provide online practice exams and on-the-road training scheduling to help students pass their driving tests. The client, DriverPass, needed a system that not only offers practice exams but also tracks student progress and facilitates on-the-road training scheduling.
 
